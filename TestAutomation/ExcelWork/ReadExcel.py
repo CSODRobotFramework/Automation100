@@ -1,6 +1,6 @@
 import openpyxl
 
-# Load Workbook
+# Load Excel Workbook
 
 wk = openpyxl.load_workbook("C:\\Users\\geefu\\OneDrive\\Documents\\TestData.xlsx")
 
